@@ -3,6 +3,7 @@ using Repository.Interface;
 using Repository.Repository;
 using RepositoryModel.Model;
 using RepositoryModel.response;
+using RepositoryModel.Validations;
 using RepositoryModel.ViewModel;
 using System;
 using System.Collections.Generic;
@@ -30,7 +31,19 @@ namespace Repository.Service
 
         public DataResult Insert(CursoViewModel curso)
         {
-            DataResult response = _context.Insert<CursoViewModel, Curso>(curso);
+            CursoValidation valid = new CursoValidation(curso);
+            DataResult response = new DataResult();
+            var validations = valid.Message();
+
+            if(validations.Count > 0)
+            {
+                response.Successfull = false;
+                response.Messages = validations;
+                return response;
+            }
+
+            response = _context.Insert<CursoViewModel, Curso>(curso);
+          
             return response;
         }
 
