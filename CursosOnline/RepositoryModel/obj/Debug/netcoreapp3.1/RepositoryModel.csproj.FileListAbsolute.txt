@@ -1,0 +1,9 @@
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.csprojAssemblyReference.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.AssemblyInfoInputs.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.AssemblyInfo.cs
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.csproj.CoreCompileInputs.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\bin\Debug\netcoreapp3.1\RepositoryModel.deps.json
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\bin\Debug\netcoreapp3.1\RepositoryModel.dll
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\bin\Debug\netcoreapp3.1\RepositoryModel.pdb
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.dll
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\RepositoryModel\obj\Debug\netcoreapp3.1\RepositoryModel.pdb

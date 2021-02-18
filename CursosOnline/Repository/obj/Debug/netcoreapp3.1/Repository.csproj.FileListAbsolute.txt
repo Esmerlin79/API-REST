@@ -1,0 +1,12 @@
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\bin\Debug\netcoreapp3.1\Repository.deps.json
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\bin\Debug\netcoreapp3.1\RepositoryModel.dll
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\bin\Debug\netcoreapp3.1\RepositoryModel.pdb
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.csprojAssemblyReference.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.AssemblyInfo.cs
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.csproj.CopyComplete
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.dll
+C:\Users\Haward\Desktop\Repository Pattern\CursosOnline\Repository\obj\Debug\netcoreapp3.1\Repository.pdb
